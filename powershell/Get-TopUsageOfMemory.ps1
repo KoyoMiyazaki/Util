@@ -1,4 +1,4 @@
-﻿function Get-TopUsageOfMemory {
+﻿function global:Get-TopUsageOfMemory {
     <#
     .SYNOPSIS
         メモリ使用率の高いプロセスを出力する。

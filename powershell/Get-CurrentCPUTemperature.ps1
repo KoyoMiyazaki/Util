@@ -1,5 +1,5 @@
-﻿function Get-CurrentCPUTemperature {
-    <#
+﻿function global:Get-CurrentCPUTemperature {
+<#
     .SYNOPSIS
         現在のCPU温度を表示する。
     .DESCRIPTION

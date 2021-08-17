@@ -1,4 +1,4 @@
-﻿function Get-LargeSizeFiles {
+﻿function global:Get-LargeSizeFiles {
     <#
     .SYNOPSIS
         サイズが大きいファイルを探し、その一覧を出力する。
