@@ -1,0 +1,4 @@
+aaa,1 AAA
+bbb,,2    BBB
+ccccc,10                  CCCCC
+d,1000 D
